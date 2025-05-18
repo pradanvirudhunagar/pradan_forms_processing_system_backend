@@ -65,7 +65,7 @@ const updateQuery = `
     form_lands.any_other_works = ?, 
     form_lands.p_contribution = ?, 
     form_lands.f_contribution = ?, 
-    form_lands.total_est = ?, 
+    form_lands.total_est = ?
 
 
   WHERE 
